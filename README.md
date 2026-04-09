@@ -1,5 +1,5 @@
 # CS 178 — Lab 16: Serverless Image Processing
-
+# adding this to ensure deploy.yml fires.
 📖 **[Lab instructions](https://hackmd.io/@profmoore/cs178-lab16)**
 
 Starter repo for Lab 16. Fork this repo, follow the lab guide above, and configure your bucket names in `app.py`.
